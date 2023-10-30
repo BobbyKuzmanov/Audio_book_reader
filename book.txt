@@ -1,1 +1,4 @@
-This my first audiobook!
+Welcome to audiobook reader!
+To start you need to follow couple steps:
+  - open the exiting text file and paste you text or simply replace the file with yours
+  - run the program
